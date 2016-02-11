@@ -5,7 +5,7 @@ set.seed(42)
 ############################## Data Prepartaion Started ################################
 #loading data
 #this sample only had data for one site and includes temperature and usage
-dat <- read.table("/Users/vaibhav/Essentials/Machine_Learning/trials_semented_regression/334_13_temperatureData.csv", header=TRUE, sep=",", stringsAsFactors = FALSE)
+dat <- read.table("sampl1.csv", header=TRUE, sep=",", stringsAsFactors = FALSE)
 head(dat)
 
 library(plyr)

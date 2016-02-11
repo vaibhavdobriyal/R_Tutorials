@@ -1,6 +1,6 @@
 # R_Tutorials
 
-##segmented_regression
+##Segmented Regression
 
 http://www.inside-r.org/packages/cran/segmented/docs/segmented
 http://www.r-bloggers.com/using-segmented-regression-to-analyse-world-record-running-times/
